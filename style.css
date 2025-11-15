@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive;
+  background: linear-gradient(135deg, #ffd1ec, #fff1b8, #b7eeff);
+  overflow-x: hidden;
+}
+
+header {
+  text-align: center;
+  padding: 25px;
+  color: #ff33ab;
+  text-shadow: 3px 3px white;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+  padding: 20px;
+}
+
+.card {
+  background: #ffffffb0;
+  border-radius: 24px;
+  width: 230px;
+  text-align: center;
+  padding: 25px;
+  box-shadow: 0 0 15px #ffa3d8;
+  transition: 0.25s;
+  cursor: pointer;
+  font-size: 21px;
+}
+
+.card:hover {
+  transform: scale(1.15) rotate(2deg);
+  box-shadow: 0 0 30px #ff5ec6;
+}
+
+#messageBox {
+  text-align: center;
+  margin: 20px;
+  font-size: 24px;
+  color: #7a00cc;
+  background: #fff9a7;
+  padding: 15px;
+  border-radius: 20px;
+  display: none;
+  box-shadow: 0 0 15px #ffe056;
+  animation: bounce 1s;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  font-size: 17px;
+  color: #5a3dff;
+}
+
+/* fun bounce animation */
+@keyframes bounce {
+  0% { transform: scale(0.7); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
