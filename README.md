@@ -12,7 +12,7 @@ A colorful, childish and interactive webpage where users tap on different ice-cr
 
 No boring stuff here — only fun, laughs and sugar rush vibes! 🍭💖
 
-🌈 Tech Used
+🌈 Tech Used:-
 Technology	Why
 HTML	The home of our sweetness 🍬
 CSS	Makes everything cute, colorful and fabulous 💅
