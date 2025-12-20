@@ -31,7 +31,7 @@ JavaScript	Brings magic, surprises & confetti 🎩🎉
 
 ⭐ If you enjoyed it…
 
-Don’t forget to Star ⭐ the repository
+Don’t forget to Star ⭐ the repository,
 It spreads happiness like free ice-cream 🍦😄
 
 preview>> https://anirbanchattaraj.github.io/Ice-Cream-Funland/
