@@ -17,7 +17,7 @@ Technology	Why
 HTML	The home of our sweetness 🍬
 CSS	Makes everything cute, colorful and fabulous 💅
 JavaScript	Brings magic, surprises & confetti 🎩🎉
-🍦 Features
+🍦 Features:
 
 💗 Bright, funky UI like a kid’s dream
 💫 Hover animations & funny playful effects
