@@ -25,7 +25,7 @@ JavaScript	Brings magic, surprises & confetti 🎩🎉
 🎊 Confetti celebration on every click
 😎 Random fun + motivating message every time
 🔥 100% boredom-proof
-🧁 Author>>Anirban Chattaraj
+🧁 Author>>Anirban Chattaraj<<
 
 👑 Made with ❤️, sparkles ✨ and confetti 🎉
 
