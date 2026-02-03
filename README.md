@@ -3,7 +3,7 @@
 Welcome to Ice-Cream Funland, the happiest and sweetest webpage on the internet!
 This is not just a webpage… it's a world of ice-cream magic where colors dance, confetti rains, and every click brings joy 😍🍦
 
-🎉 What is this project?
+🎉 What is this project??
 
 A colorful, childish and interactive webpage where users tap on different ice-cream names and receive:
 ✨ Fun messages
